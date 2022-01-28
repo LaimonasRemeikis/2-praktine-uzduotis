@@ -1,0 +1,15 @@
+{
+  "name": "2-praktine-uzduotis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { "dev": "nodemon ./js/01-praktika.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Laimonas <laimonasremeikis@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
