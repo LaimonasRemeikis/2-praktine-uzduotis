@@ -19,10 +19,10 @@
     console.log('-----------------------')
    // 3. Naudojant ciklą, išvesti į konsolę skaičius nuo 0, 2, 4, 6, 8, 10. (5 taškai)
   
-  let c = 2
-   for(let i =0; i<11; i++ ){
+   n = 2
+   for(let i =0; i<=5; i++ ){
     
-    console.log(i)
+    console.log(i*(n))
   }
   console.log('-----------------------')
    //4. Naudojant ciklą, sugeneruoti penkis atsitiktinius skaičius nuo 1 iki 10. Išvesti juos konsolėje. (5 taškai)
